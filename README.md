@@ -1,2 +1,3 @@
-# thesis
-Resources and analysis for my master's thesis
+This is the website for my master's thesis.
+
+Contents
