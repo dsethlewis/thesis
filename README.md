@@ -6,6 +6,6 @@ Contents
 
 [Analysis: Inferential statistics](tests.html)
 
-[Manipulation Checks v0.1-v0.3](check-pilot.html)
+[Manipulation Checks](manipulation-checks.md)
 
 [Data tidying](cleanup.html)
