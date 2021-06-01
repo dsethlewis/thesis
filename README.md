@@ -17,3 +17,5 @@ Contents
 [Inferential Statistics](inferences.hmtl)
 
 [Inferential Statistics, Excluding Low-Quality Data and a Problematic Item](inferences-hq-nocog4.html)
+
+[Mediation Analysis: Disclosure -> Liking via Trust](mediation.html)
