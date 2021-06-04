@@ -19,3 +19,7 @@ Contents
 [Inferential Statistics, Excluding Low-Quality Data and a Problematic Item](inferences-hq-nocog4.html)
 
 [Mediation Analysis: Disclosure -> Liking via Trust](mediation.html)
+
+[Correlation Matrix](correlation.html)
+
+[Exploratory Analyses](exploratory.html)
